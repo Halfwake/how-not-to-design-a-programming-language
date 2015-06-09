@@ -10,7 +10,8 @@ Write single line blocks with brace delimiters.
 
 ````
 	int main { printf("Hello, World\n"); }
-```1
+
+
 
 Write multi line blocks with bareword delimiters.
 
@@ -19,7 +20,8 @@ Write multi line blocks with bareword delimiters.
 	    printf("Hello, World\n");
 	    return 0;
 	END
-````
+
+
 
 Don't mix brackets and barewords for the same block! This "feature" will be removed in future versions!
 
@@ -27,4 +29,3 @@ Don't mix brackets and barewords for the same block! This "feature" will be remo
 	// DANGER! THIS WILL BE REMOVED IN FUTURE VERSIONS OF THE LANGUAGE!
 	int main BEGIN return 0; }
 	int main { return 0; END
-````
