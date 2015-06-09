@@ -1,4 +1,4 @@
-C== (Sea, Equals, Equals)
+C== (Sea, Eck, Eck)
 
 <marquee>[REDUCE EDP] -- [A MODERN C FOR THE MODERN WORLD]</marquee>
 
